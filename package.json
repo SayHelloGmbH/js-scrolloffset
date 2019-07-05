@@ -1,0 +1,25 @@
+{
+    "name": "@sayhellogmbh/js-scrolloffset",
+    "version": "1.0.0",
+    "description": "jQuery script which watches the window scroll position and adds/removes a CSS class to the HTML object as appropriate.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/SayHelloGmbH/js-scrolloffset.git"
+    },
+    "keywords": [
+        "scroll",
+        "offset",
+        "jquery",
+        "sayhellogmbh"
+    ],
+    "author": "Mark Howells-Mead <mark@sayhello.ch>",
+    "license": "GPL-3.0-or-later",
+    "bugs": {
+        "url": "https://github.com/SayHelloGmbH/js-scrolloffset/issues"
+    },
+    "homepage": "https://github.com/SayHelloGmbH/js-scrolloffset#readme"
+}
