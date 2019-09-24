@@ -1,5 +1,5 @@
 {
-    "name": "@sayhellogmbh/js-scrolloffset",
+    "name": "@sayhellotogithub/js-scrolloffset",
     "version": "1.1.0",
     "description": "jQuery script which watches the window scroll position and adds/removes a CSS class to the HTML object as appropriate.",
     "main": "index.js",
