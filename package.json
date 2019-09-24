@@ -22,4 +22,7 @@
         "url": "https://github.com/markhowellsmead/js-scrolloffset/issues"
     },
     "homepage": "https://github.com/markhowellsmead/js-scrolloffset#readme"
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com/"
+    }
 }
